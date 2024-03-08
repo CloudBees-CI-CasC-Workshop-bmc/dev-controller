@@ -1,0 +1,4 @@
+variables:
+- team: CloudBees-CI-CasC-Workshop-bmc
+- admin-user: bmcSRE-admin
+- manager-user: bmcSRE
